@@ -8,7 +8,7 @@ Bookmark'd  is one of the projects I've been working on at General Assembly. Thi
 - Quentin
 - Ras
  
- <a href="https://penguin-bookmarkd-backend.herokuapp.com/">Live Link</a>
+ <a href="https://fervent-lamarr-383302.netlify.app/">Live Link</a>
 
 
 ### Technologies used
